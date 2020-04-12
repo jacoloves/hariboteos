@@ -1,1 +1,7 @@
 z_tools/
+*_smp.nas
+bak/
+*bin
+*lst
+*_smp
+*.img
