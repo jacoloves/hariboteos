@@ -5,3 +5,12 @@ bak/
 *lst
 *_smp
 *.img
+*.obj
+*.sys
+*.gas
+*.map
+*.hrb
+*.bim
+bootpack.nas
+dsctbl.nas
+graphic.nas
